@@ -2,30 +2,30 @@ This repository contains my Econometrics lab assignments, focusing on the applic
 
 # Topics Covered
 
-## Panel Data Analysis
+- ## Panel Data Analysis
 Worked with datasets that track multiple entities (like individuals, firms, or countries) over time. Explored fixed effects, random effects, and other techniques to account for unobserved heterogeneity.
 
-## Time Series Analysis
+- ## Time Series Analysis
 Studied trends, seasonality, and patterns in time-dependent data. Applied moving averages, exponential smoothing, and regression-based forecasting methods to predict future outcomes.
 
-## Cross-Sectional Data
+- ## Cross-Sectional Data
 Analyzed data collected at a single point in time across multiple individuals or entities. Focused on regression analysis, hypothesis testing, and interpretation of relationships between variables.
 
-## Cook’s Distance
+- ## Cook’s Distance
 Identified influential observations in regression models that could disproportionately affect model estimates. Learned to detect and address outliers to improve model reliability.
 
-## Omitted Variable Concept
+- ## Omitted Variable Concept
 Explored the effects of leaving out important variables in regression analysis, including bias and inconsistency in parameter estimates. Applied methods to identify and mitigate omitted variable bias.
 
 # Tools & Techniques
 
-## Programming Languages:
+- ## Programming Languages:
 Python, R
 
-## Libraries/Packages:
+- ## Libraries/Packages:
 pandas, statsmodels, scikit-learn, matplotlib, seaborn, plm (R)
 
-## Methods:
+- ## Methods:
 Linear regression, multiple regression, diagnostic testing, model validation, data visualization
 
 # Objectives
