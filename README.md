@@ -19,11 +19,14 @@ Explored the effects of leaving out important variables in regression analysis, 
 
 # Tools & Techniques
 
-## Programming Languages: Python, R
+## Programming Languages:
+Python, R
 
-## Libraries/Packages: pandas, statsmodels, scikit-learn, matplotlib, seaborn, plm (R)
+## Libraries/Packages:
+pandas, statsmodels, scikit-learn, matplotlib, seaborn, plm (R)
 
-## Methods: Linear regression, multiple regression, diagnostic testing, model validation, data visualization
+## Methods:
+Linear regression, multiple regression, diagnostic testing, model validation, data visualization
 
 # Objectives
 
